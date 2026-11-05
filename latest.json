@@ -6,11 +6,11 @@
     "versionCode": 110,
     "versionName": "1.1.0",
     "minSdk": 28,
-    "publishedAt": "2026-11-05T15:49:11Z",
+    "publishedAt": "2026-11-05T15:58:00Z",
     "apkUrl": [
       "https://github.com/new-agent-lk/maple-launcher-release/releases/download/v1.1.0/maple-launcher-1.1.0.apk"
     ],
-    "sha256": "a61c1c7985f5b6bf7727c872e2d892145c4bb0a6d313f85bbd825997c171736b",
+    "sha256": "553c18ca54a8e286afa07e1005c95c592d89b60945b355d3c1264f09a6786773",
     "size": 1062781,
     "changelog": "枫叶桌面 1.1.0：移除全部旧品牌痕迹，统一枫叶红主题与文案；新增应用内自动更新（检查、下载、SHA-256 与签名校验、系统安装确认）；修复首页地图格被 Google 地图搜索组件占用的问题，恢复枫叶悬浮地图占位卡；保留车机语音、网络助手与开机动画互通。",
     "signerSha256": "ffd54de1bd2ae6d6ab2578bd0a8c4c1153e9a32c1d17678063b6f0bdb872dc86",
