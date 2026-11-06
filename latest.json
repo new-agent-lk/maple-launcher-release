@@ -3,16 +3,16 @@
   "app": "cn.maple.launcher.fyt7870",
   "channel": "stable",
   "latest": {
-    "versionCode": 110,
-    "versionName": "1.1.0",
+    "versionCode": 120,
+    "versionName": "1.2.0",
     "minSdk": 28,
-    "publishedAt": "2026-11-05T15:58:00Z",
+    "publishedAt": "2026-11-06T13:52:00Z",
     "apkUrl": [
-      "https://github.com/new-agent-lk/maple-launcher-release/releases/download/v1.1.0/maple-launcher-1.1.0.apk"
+      "https://github.com/new-agent-lk/maple-launcher-release/releases/download/v1.2.0/maple-launcher-1.2.0.apk"
     ],
-    "sha256": "553c18ca54a8e286afa07e1005c95c592d89b60945b355d3c1264f09a6786773",
-    "size": 1062781,
-    "changelog": "枫叶桌面 1.1.0：移除全部旧品牌痕迹，统一枫叶红主题与文案；新增应用内自动更新（检查、下载、SHA-256 与签名校验、系统安装确认）；修复首页地图格被 Google 地图搜索组件占用的问题，恢复枫叶悬浮地图占位卡；保留车机语音、网络助手与开机动画互通。",
+    "sha256": "fd760e560d841aa41a3312ff92ed9122c053eb7a4bddf7c79be334738f4fbbbc",
+    "size": 1050493,
+    "changelog": "枫叶桌面 1.2.0：清掉旧作者的全部外部接口（字体/萌伴/帮助/语音样本服务器、官网与网盘入口、四个车机互通包），下线云端语音与会员账号入口，状态栏改为透明，字体只用系统与内置。",
     "signerSha256": "ffd54de1bd2ae6d6ab2578bd0a8c4c1153e9a32c1d17678063b6f0bdb872dc86",
     "mandatory": false
   }
