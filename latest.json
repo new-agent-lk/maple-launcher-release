@@ -3,16 +3,16 @@
   "app": "cn.maple.launcher.fyt7870",
   "channel": "stable",
   "latest": {
-    "versionCode": 120,
-    "versionName": "1.2.0",
+    "versionCode": 130,
+    "versionName": "1.3.0",
     "minSdk": 28,
-    "publishedAt": "2026-11-06T13:52:00Z",
+    "publishedAt": "2026-11-10T15:44:34Z",
     "apkUrl": [
-      "https://github.com/new-agent-lk/maple-launcher-release/releases/download/v1.2.0/maple-launcher-1.2.0.apk"
+      "https://github.com/new-agent-lk/maple-launcher-release/releases/download/v1.3.0/maple-launcher-1.3.0.apk"
     ],
-    "sha256": "fd760e560d841aa41a3312ff92ed9122c053eb7a4bddf7c79be334738f4fbbbc",
-    "size": 1050493,
-    "changelog": "枫叶桌面 1.2.0：清掉旧作者的全部外部接口（字体/萌伴/帮助/语音样本服务器、官网与网盘入口、四个车机互通包），下线云端语音与会员账号入口，状态栏改为透明，字体只用系统与内置。",
+    "sha256": "38178dbf52d505026a5438d7ebc256ece5c97451c5790583ad86e40334ffd0a2",
+    "size": 1054589,
+    "changelog": "枫叶桌面 1.3.0：新增车机音量设置页，提供 Shizuku / root / adb 三条授权通道；普通车机没权限调音量时可任选其一。",
     "signerSha256": "ffd54de1bd2ae6d6ab2578bd0a8c4c1153e9a32c1d17678063b6f0bdb872dc86",
     "mandatory": false
   }
